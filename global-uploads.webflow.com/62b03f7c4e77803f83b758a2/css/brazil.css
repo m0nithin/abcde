@@ -14,6 +14,18 @@ html {
   .main {
     height: 100vh;
   }
+
+  iframe {
+    width: 420px;
+    height: 312px;
+    border-radius: 20px;
+    border: none;
+  }
+}
+
+iframe {
+  border-radius: 20px;
+  border: none;
 }
 
 
